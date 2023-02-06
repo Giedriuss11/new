@@ -1,3 +1,19 @@
 button {
     padding: 100px;
 }
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 300px;
+    width: 200px;
+    border: 3px solid black;
+}
+
+img {
+    height: 100px;
+    width: 150px;
+}
